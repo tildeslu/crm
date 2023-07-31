@@ -1,0 +1,15 @@
+asgiref==3.6.0
+certifi==2022.12.7
+charset-normalizer==3.0.1
+crawlerdetect==0.1.5
+Django==4.1.7
+django4-background-tasks==1.2.7
+et-xmlfile==1.1.0
+idna==3.4
+lxml==4.9.2
+openpyxl==3.1.2
+psycopg2-binary==2.9.5
+requests==2.28.2
+six==1.16.0
+sqlparse==0.4.3
+urllib3==1.26.14
